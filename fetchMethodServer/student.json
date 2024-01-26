@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Raj kumar",
+        "age":"30",
+        "city":"Faridabad"
+    },
+    {
+        "name":"Rahul",
+        "age":"20",
+        "city":"Faridabad"
+    },
+    {
+        "name":"Ankita",
+        "age":"27",
+        "city":"Faridabad"
+    },
+    {
+        "name":"Neha",
+        "age":"21",
+        "city":"Faridabad"
+    }
+]
